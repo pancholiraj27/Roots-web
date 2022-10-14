@@ -1,0 +1,61 @@
+.imageModal {
+  background-color: rgba(0, 0, 0, 0.8);
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 15px;
+}
+.arrow {
+  font-size: 3em;
+}
+.arrow:hover {
+  transform: scale(1.2);
+}
+.images {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+}
+.dismiss {
+  position: absolute;
+  top: 1%;
+  left: 90%;
+  font-size: 3em;
+}
+
+.dismiss:hover {
+  transform: scale(1.2);
+}
+
+@media screen and (max-width: 786px) {
+  .dismiss {
+    top: 8%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .dismiss {
+    top: 20%;
+  }
+  .images {
+    width: 80%;
+    height: 80%;
+  }
+}
+
+@media screen and (max-width: 428px) {
+  .arrow {
+    font-size: 2em;
+  }
+  .dismiss {
+    top: 28%;
+    left: 80%;
+  }
+}

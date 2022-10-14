@@ -1,0 +1,18 @@
+.container {
+  background-color: green;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.image404 {
+  width: 100vw;
+  height: 100vh;
+}
+.backButton {
+  position: absolute;
+  top: 20px;
+  left: 90vw;
+  font-size: 18px;
+  color: #dfbf5d;
+}

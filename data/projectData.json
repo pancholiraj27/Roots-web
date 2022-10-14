@@ -1,0 +1,148 @@
+[
+  {
+    "id": "lake-side-boutique-hotel",
+    "projectName": "Lake side Boutique hotel",
+    "vidSrc": "https://res.cloudinary.com/pancholiraj/video/upload/v1657475329/roots/Lake_side_Boutique_hotel_nu5j7o.mp4",
+    "alt": "Lake side Boutique hotel Image",
+    "imgSrc": "https://res.cloudinary.com/pancholiraj/image/upload/v1657537467/roots/thumnails/thum_lake_side_boutique_nswujh.jpg",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910236/roots/Project%20page%20images/Lake%20side%20boutique%20hotel/Hotel_1_ehu3lh.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910236/roots/Project%20page%20images/Lake%20side%20boutique%20hotel/Hotel_1_ehu3lh.png",
+        "enableImageSelection": false
+      },
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910231/roots/Project%20page%20images/Lake%20side%20boutique%20hotel/hotel_2_hpybyq.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910231/roots/Project%20page%20images/Lake%20side%20boutique%20hotel/hotel_2_hpybyq.png",
+        "enableImageSelection": false
+      }
+    ]
+  },
+  {
+    "id": "home-office",
+    "projectName": "Home Office",
+    "vidSrc": "https://res.cloudinary.com/pancholiraj/video/upload/v1657475395/roots/Home_office_cwbhmo.mp4",
+    "alt": "Home Office Image",
+    "imgSrc": "https://res.cloudinary.com/pancholiraj/image/upload/v1657537468/roots/thumnails/thum_home_office_idx8ib.jpg",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909773/roots/Project%20page%20images/Home%20Office/58_ylalit.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909773/roots/Project%20page%20images/Home%20Office/58_ylalit.png",
+        "enableImageSelection": false
+      },
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909775/roots/Project%20page%20images/Home%20Office/2_z08ddk.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909775/roots/Project%20page%20images/Home%20Office/2_z08ddk.png",
+        "enableImageSelection": false
+      }
+    ]
+  },
+  {
+    "id": "hostel-makeovers",
+    "projectName": "Hostel Makeovers",
+    "vidSrc": "https://res.cloudinary.com/pancholiraj/video/upload/v1657475386/roots/landing_page_video_jiqsvf.mp4",
+    "alt": "Hostel makeovers Image",
+    "imgSrc": "https://res.cloudinary.com/pancholiraj/image/upload/v1657477715/roots/pexels-maria-orlova-4916166_lm9ryd.jpg",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909855/roots/Project%20page%20images/hostel%20makeover/3_dh1vlx.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909855/roots/Project%20page%20images/hostel%20makeover/3_dh1vlx.png",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909854/roots/Project%20page%20images/hostel%20makeover/115_nsxmsb.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909854/roots/Project%20page%20images/hostel%20makeover/115_nsxmsb.png",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909854/roots/Project%20page%20images/hostel%20makeover/68f_tbvoqi.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909854/roots/Project%20page%20images/hostel%20makeover/68f_tbvoqi.png",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909853/roots/Project%20page%20images/hostel%20makeover/97_du7fne.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909853/roots/Project%20page%20images/hostel%20makeover/97_du7fne.png",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909853/roots/Project%20page%20images/hostel%20makeover/70d_mbnivs.png",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657909853/roots/Project%20page%20images/hostel%20makeover/70d_mbnivs.png",
+        "enableImageSelection": false
+      }
+    ]
+  },
+  {
+    "id": "resort-proposal",
+    "projectName": "Resort Proposal",
+    "vidSrc": "https://res.cloudinary.com/pancholiraj/video/upload/v1657475321/roots/Resort_proposal_h9lcoe.mp4",
+    "alt": "Resort Proposal Image",
+    "imgSrc": "https://res.cloudinary.com/pancholiraj/image/upload/v1657537467/roots/thumnails/thum_resort_proposal_fj75n9.jpg",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910008/roots/Project%20page%20images/Resort%20Proposal/12_tblub6.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910008/roots/Project%20page%20images/Resort%20Proposal/12_tblub6.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/11_kx0aub.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/11_kx0aub.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/b-page-001_jnm5vp.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/b-page-001_jnm5vp.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/RESORT-page-001_uijfvh.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/RESORT-page-001_uijfvh.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/9_smksxr.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910007/roots/Project%20page%20images/Resort%20Proposal/9_smksxr.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910006/roots/Project%20page%20images/Resort%20Proposal/13_buwhcw.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910006/roots/Project%20page%20images/Resort%20Proposal/13_buwhcw.jpg",
+        "enableImageSelection": false
+      }
+    ]
+  },
+  {
+    "id": "auditorium-proposal",
+    "projectName": "Auditorium Proposal",
+    "vidSrc": "https://res.cloudinary.com/pancholiraj/video/upload/v1657475322/roots/Auditorium_proposal_yvd7kw.mp4",
+    "alt": "Auditorium proposal Image",
+    "imgSrc": "https://res.cloudinary.com/pancholiraj/image/upload/v1657537468/roots/thumnails/thum_auditorium_ve5f9w.jpg",
+    "images": [
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910119/roots/Project%20page%20images/Auditorium%20Proposal/AA1-page-001_wuh5fm.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910119/roots/Project%20page%20images/Auditorium%20Proposal/AA1-page-001_wuh5fm.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910119/roots/Project%20page%20images/Auditorium%20Proposal/AA-page-001_dgkh47.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910119/roots/Project%20page%20images/Auditorium%20Proposal/AA-page-001_dgkh47.jpg",
+        "enableImageSelection": false
+      },
+
+      {
+        "src": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910118/roots/Project%20page%20images/Auditorium%20Proposal/AA2-page-001_zc7ifp.jpg",
+        "thumbnail": "https://res.cloudinary.com/pancholiraj/image/upload/v1657910118/roots/Project%20page%20images/Auditorium%20Proposal/AA2-page-001_zc7ifp.jpg",
+        "enableImageSelection": false
+      }
+    ]
+  }
+]

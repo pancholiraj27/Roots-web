@@ -1,0 +1,95 @@
+.aboutPage {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.aboutDetails {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.anshuImage {
+  width: 95%;
+  height: auto;
+}
+.anshuAbout {
+  width: 70%;
+}
+.anshuAbout h1 {
+  color: #978e85;
+  font-weight: 400;
+}
+
+.anshuAbout p {
+  letter-spacing: 1px;
+  line-height: 25px;
+  margin: 25px 0;
+}
+
+.pagesLink {
+  width: 100%;
+  font-weight: 700;
+}
+.pagesLink ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  margin: 10px;
+  color: #978e85;
+}
+
+@media screen and (max-width: 1200px) {
+  .anshuAbout h1 {
+    font-size: 24px;
+  }
+  .anshuAbout {
+    width: 100%;
+  }
+  .imageDiv {
+    width: 100%;
+  }
+  .anshuImage {
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .aboutPage p {
+    line-height: normal;
+    margin: 10px 0;
+    letter-spacing: normal;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .aboutPage {
+    width: 90%;
+  }
+  .imageDiv {
+    margin-bottom: 10px;
+  }
+  .anshuImage {
+    width: 100%;
+  }
+  .aboutDetails {
+    flex-direction: column;
+  }
+  .aboutPage p {
+    font-size: 12px;
+    line-height: 24px;
+    margin: 10px 0;
+    letter-spacing: 1px;
+  }
+}

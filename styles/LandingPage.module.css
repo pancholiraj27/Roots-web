@@ -1,0 +1,83 @@
+.landingPage {
+  max-width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  opacity: 0.9;
+}
+
+.landingData {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.projectButton,
+.toggleButton {
+  cursor: pointer;
+  position: absolute;
+  top: 2.5%;
+  left: 90%;
+  color: #dfbf5d;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+.toggleButton {
+  left: 85%;
+  display: none;
+  font-size: 200%;
+}
+
+.toggleLinks {
+  position: absolute;
+  top: 55px;
+  width: 100%;
+  background-color: white;
+  color: black;
+  display: none;
+}
+
+.toggleLinks ul {
+  list-style: none;
+  padding: 0;
+}
+
+.toggleLinks ul li {
+  margin: 5px 15px;
+  border-top: 1px solid rgba(0, 0, 0, 0.4);
+  color: #0f1a2b;
+  padding: 10px;
+}
+.toggleLinks ul li:first-child {
+  border-top: none;
+}
+
+/* for mobile phones */
+
+@media screen and (max-width: 768px) {
+  .projectButton {
+    left: 85%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .projectButton {
+    display: none;
+  }
+  .toggleButton {
+    display: block;
+  }
+  .toggleLinks {
+    display: block;
+  }
+}
